@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+# IDE settings
+.idea/
+# Python files
+__pycache__/
+*.pyc
+# (Optional) Data files if too large for GitHub
+# *.csv
